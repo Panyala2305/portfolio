@@ -59,8 +59,8 @@ export default function Education() {
         <ToolsSection title="12th Grade">
           <Tool title="Sri Chaithanya Junior Colleges">
             I completed my Higher Secondary (12th grade) education with a focus
-            on Mathematics, Physics, and Chemistry
-            with 92.1% percentag, from 2016 to 2018 in Hyderabad, Telangana.
+            on Mathematics, Physics, and Chemistry with 92.1% percentag, from
+            2016 to 2018 in Hyderabad, Telangana.
           </Tool>
         </ToolsSection>
         <ToolsSection title="10th-Standard">

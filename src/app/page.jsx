@@ -197,7 +197,7 @@ function Resume() {
       start: 'Aug 2024', // Add specific date range if available
       end: 'Oct 2024', // Add specific end date or 'Present'
     },
-   
+
     {
       company: 'Freelancing',
       title: 'Freelance Developer',
@@ -285,10 +285,8 @@ export default async function Home() {
             A Full Stack Developer with a hands-on experience in both front-end
             and back-end technologies. Passionate about blending coding skills
             with building dynamic and scalable applications.
-            
           </p>
           <div className="mt-6 flex gap-6">
-            
             <SocialLink
               href="https://github.com/Panyala2305"
               aria-label="Follow on GitHub"

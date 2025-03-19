@@ -1,4 +1,3 @@
-
 import Image from 'next/image';
 import { IoChatbubbleEllipses } from 'react-icons/io5';
 import { Card } from '@/components/Card';
@@ -42,7 +41,6 @@ const projects = [
     },
     logo: logoChat, // Replace with the logo of your project
   },
- 
 ];
 function LinkIcon(props) {
   return (
