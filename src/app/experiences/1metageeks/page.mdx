@@ -1,0 +1,47 @@
+import { ExperienceLayout } from '@/components/ExperienceLayout';
+
+export const experience = {
+  title: 'Metageeks Technologies',
+  description: `At Metageeks Technologies, a leading Web3 development company based in Noida, I worked as a Web3 Developer. My role focused on integrating blockchain-based payment solutions, implementing decentralized systems, and collaborating on cutting-edge Web3 technologies. I contributed significantly to the development of projects involving Ethereum transactions, smart contract integration, and blockchain-based functionalities for secure and efficient payment processing.`,
+  date: 'Nov 2024 – Present', // Added date field
+  details: [
+    {
+      role: 'Full Stack Developer',
+      company: 'Metageeks Technologies',
+      location: 'Noida',
+      responsibilities: [
+        'I have worked on developing a custom CMS for Matageeks technologies, utilizing React.js for the frontend, Node.js and Express.js for the backend, with using MongoDB for data storage. I contributed mostly on implementing role management, authentications of(users, admin, Moderator and contributor), and creating new content model pages where the user can create multiple content types for dynamic usage.',
+        'Contributed to the integration of the main Metageeks website with Contentful CMS for dynamic content where its developed using Next.js management, ensuring smooth data storage and retrieval through Contentful APIs.',
+        ' Developed a live chat support feature for Goat Network and Enhanced user authentication and authorization workflows with using JWT tokens for secure access, while using Next.js to manage client-side and server-side rendering based on user roles for optimized performance..',
+      ],
+    },
+  ],
+};
+
+export const metadata = {
+  title: experience.title,
+  description: experience.description,
+};
+
+export default function ExperiencePage(props) {
+  return (
+    <ExperienceLayout experience={experience} {...props}>
+      <section>
+        <h2>Experience Details</h2>
+        <p>
+          <strong>Date:</strong> {experience.date}
+        </p>{' '}
+        {/* Added date display */}
+        <p>{experience.description}</p>
+        <h3>Responsibilities</h3>
+        <ul>
+          {experience.details[0].responsibilities.map(
+            (responsibility, index) => (
+              <li key={index}>{responsibility}</li>
+            ),
+          )}
+        </ul>
+      </section>
+    </ExperienceLayout>
+  );
+}
