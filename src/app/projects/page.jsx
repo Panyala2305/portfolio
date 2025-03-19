@@ -14,7 +14,7 @@ const projects = [
   {
     name: 'Multi-Vendor-Ecommerce Application (Frontend)',
     description:
-      'I developed the front end for the Multi-Vendor-Ecommerce Application, a food delivery platform similar to Swiggy, using React and Tailwind CSS. The app includes both user, seller and admin interfaces.',
+      'I developed the front end for the Multi-Vendor-Ecommerce Application with using React and Tailwind CSS. The app includes both user, seller and admin interfaces where the users can buy products from sellers',
     link: {
       href: 'https://github.com/Panyala2305/Frontend-multivendor-ecommerce',
       label: 'Multi-Vendor-Ecommerce Application',
