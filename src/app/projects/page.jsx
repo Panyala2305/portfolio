@@ -16,7 +16,7 @@ const projects = [
     description:
       'I developed the front end for the Multi-Vendor-Ecommerce Application, a food delivery platform similar to Swiggy, using React and Tailwind CSS. The app includes both user, seller and admin interfaces.',
     link: {
-      href: 'https://github.com/mintureddy25/foodie_frontend',
+      href: 'https://github.com/Panyala2305/Frontend-multivendor-ecommerce',
       label: 'Multi-Vendor-Ecommerce Application',
     },
     logo: logoEcommerce,
@@ -26,7 +26,7 @@ const projects = [
     description:
       'I built the back end for the Multi-Vendor-Ecommerce Application using Node.js and Express.js, managing server-side logic and database interactions with an MongoDB database.',
     link: {
-      href: 'https://github.com/mintureddy25/foodie_backend',
+      href: 'https://github.com/Panyala2305/Backend-multivendor-ecommerce',
       label: 'Multi-Vendor-Ecommerce Application',
     },
     logo: logoEcommerce,
@@ -36,7 +36,7 @@ const projects = [
     description:
       'I developed the Real-Time Chat Application, a secure and responsive messaging platform, using ReactJS and TailwindCSS for the front-end. The app features user authentication with JWT for secure login, real-time messaging via WebSockets, and end-to-end message encryption with CryptoJS. On the back-end, I implemented a REST API using Node.js and ExpressJS, with MongoDB for efficient data storage. This application allows users to communicate securely and instantly across multiple devices.',
     link: {
-      href: 'https://github.com/mintureddy25/send_email', // Replace with your GitHub link
+      href: 'https://github.com/Panyala2305/Honor-Chat', // Replace with your GitHub link
       label: 'Realtime Chat Application',
     },
     logo: logoChat, // Replace with the logo of your project

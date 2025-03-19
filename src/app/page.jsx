@@ -226,7 +226,7 @@ function Resume() {
         ))}
       </ol>
       <Button
-        href="/AkashReddy_Resume.pdf"
+        href="/Akash_Reddy_Resume.pdf"
         download="AkashReddy_resume.pdf"
         variant="secondary"
         className="group mt-6 w-full"
