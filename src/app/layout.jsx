@@ -8,8 +8,7 @@ export const metadata = {
     template: 'Akash Reddy',
     default: 'Akash Reddy',
   },
-  description:
-    'Hi, Iam Akash Reddy Panyala, software enginner from Hyderabad',
+  description: 'Hi, Iam Akash Reddy Panyala, software enginner from Hyderabad',
   alternates: {
     types: {
       'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,
