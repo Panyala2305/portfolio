@@ -5,11 +5,11 @@ import '@/styles/tailwind.css';
 
 export const metadata = {
   title: {
-    template: 'Saiteja Reddy',
-    default: 'Sai Teja Reddy',
+    template: 'Akash Reddy',
+    default: 'Akash Reddy',
   },
   description:
-    'Hi, Iam Sai Teja Reddy Chappeta , software enginner from Hyderabad',
+    'Hi, Iam Akash Reddy Panyala, software enginner from Hyderabad',
   alternates: {
     types: {
       'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,
