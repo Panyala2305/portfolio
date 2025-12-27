@@ -68,12 +68,12 @@ export default function About() {
               solutions.
             </p>
             <p>
-              At Dropac, I played a key role in developing a
-              custom CMS, integrating role-based authentication, and connecting
-              the company’s main website with Contentful CMS for seamless
-              content management. Additionally, I enhanced user authentication
-              workflows and implemented a live chat support feature for Goat
-              Network, optimizing real-time interactions.
+              At Dropac, I played a key role in developing a custom CMS,
+              integrating role-based authentication, and connecting the
+              company’s main website with Contentful CMS for seamless content
+              management. Additionally, I enhanced user authentication workflows
+              and implemented a live chat support feature for Goat Network,
+              optimizing real-time interactions.
             </p>
             <p>
               Previously, at Hubhopper, I contributed to frontend development,
