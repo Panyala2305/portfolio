@@ -184,15 +184,15 @@ function Role({ role }) {
 function Resume() {
   let resume = [
     {
-      company: 'Metageeks Technologies',
-      title: 'Full Stack Developer intern',
+      company: 'Dropac',
+      title: 'Full Stack Developer',
       logo: logoMetageeks,
       start: 'Dec 2024', // Add specific date range if available
       end: 'Present', // Add specific end date or 'Present'
     },
     {
-      company: 'HighRadius',
-      title: 'Frontend Developer intern',
+      company: 'Hubhopper',
+      title: 'Frontend Developer',
       logo: logoHubhopper,
       start: 'Aug 2024', // Add specific date range if available
       end: 'Oct 2024', // Add specific end date or 'Present'
