@@ -187,23 +187,23 @@ function Resume() {
       company: 'Dropac',
       title: 'Full Stack Developer',
       logo: logoMetageeks,
-      start: 'Dec 2024', // Add specific date range if available
-      end: 'Present', // Add specific end date or 'Present'
+      start: 'Aug 2025', // Add specific date range if available
+      end: 'Jan 2026', // Add specific end date or 'Present'
     },
     {
       company: 'Hubhopper',
       title: 'Frontend Developer',
       logo: logoHubhopper,
-      start: 'Aug 2024', // Add specific date range if available
-      end: 'Oct 2024', // Add specific end date or 'Present'
+      start: '', // Add specific date range if available
+      end: '', // Add specific end date or 'Present'
     },
 
     {
       company: 'Freelancing',
       title: 'Freelance Developer',
       logo: logoPlanetaria,
-      start: 'Oct 2023',
-      end: 'Apr 2024',
+      start: '',
+      end: '',
     },
     {
       company: 'Photomath',
